@@ -1,4 +1,4 @@
-## 🌟 About Me  
+## 🌟 Mini CV
 - 🎓 **Education**:  
   - Master's in Computer Science at the [University of Tartu](https://cs.ut.ee/en/content/computer-science-msc) 🇪🇪  
   - Master's in Urban Mobility at [Universitat Politècnica de Catalunya](https://camins.upc.edu/en/Studies/master/urban_mobility) 🇪🇸
