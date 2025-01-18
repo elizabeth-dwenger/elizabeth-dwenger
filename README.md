@@ -22,6 +22,7 @@
   - ✅ Data Visualization
   - ✅ ML Fairness
   - ✅ Urban Mobility Data
+  - ✅ Linear Algebra & Statistics (and sometimes Calculus :)
 - **Non-Interests**:  
   - ❌ Ad-tech  
 
