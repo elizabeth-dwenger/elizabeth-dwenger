@@ -1,10 +1,10 @@
 ## 🌟 About Me  
 - 🎓 **Education**:  
-  - Master's in Computer Science at the [University of Tartu](https://ut.ee/en) 🇪🇪  
-  - Master's in Urban Mobility at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) 🇪🇸
-  - Bachelor's in Artificial Intelligence at [Vrije Universiteit Amsterdam](https://vu.nl/nl) 🇳🇱  
+  - Master's in Computer Science at the [University of Tartu](https://cs.ut.ee/en/content/computer-science-msc) 🇪🇪  
+  - Master's in Urban Mobility at [Universitat Politècnica de Catalunya](https://camins.upc.edu/en/Studies/master/urban_mobility) 🇪🇸
+  - Bachelor's in Artificial Intelligence at [Vrije Universiteit Amsterdam](https://vu.nl/en/education/bachelor/artificial-intelligence) 🇳🇱  
   - Exchange Program in Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/) 🇭🇰
-  - Dual Enrollment at the [University of Minnesota](https://twin-cities.umn.edu/) in High School 🇺🇸
+  - Dual Enrollment at the [University of Minnesota](https://ccaps.umn.edu/post-secondary-enrollment-options-pseo) in High School 🇺🇸
 
 - 💼 **Experience**:  
   - Data Science Intern at [Uber](https://www.uber.com/) 🇳🇱 
