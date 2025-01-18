@@ -20,7 +20,7 @@
   - ✅ Explainable AI
   - ✅ Reinforcement Learning
   - ✅ Data Visualization
-  - ✅ Reducing Bias in AI
+  - ✅ ML Fairness
   - ✅ Urban Mobility Data
 - **Non-Interests**:  
   - ❌ Ad-tech  
