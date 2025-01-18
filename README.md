@@ -1,5 +1,3 @@
-# Hi, I'm Elizabeth! 👋  
-
 ## 🌟 About Me  
 - 🎓 **Education**:  
   - Master's in Computer Science at the [University of Tartu](https://ut.ee/en) 🇪🇪  
