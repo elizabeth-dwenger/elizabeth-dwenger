@@ -21,6 +21,7 @@
   - ✅ Causal Inference  
   - ✅ Urban Mobility Data  
   - ✅ Deep Learning
+  - ✅ Data Visualization 
 - **Non-Interests**:  
   - ❌ Ad-tech  
 
