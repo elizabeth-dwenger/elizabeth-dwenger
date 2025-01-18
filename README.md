@@ -18,10 +18,12 @@
 ## 📚 My Interests   
 - **Interests**:  
   - ✅ Hypothesis Testing (A/B Testing & RCTs)
-  - ✅ Causal Inference  
-  - ✅ Urban Mobility Data  
-  - ✅ Deep Learning
-  - ✅ Data Visualization 
+  - ✅ Causal Inference
+  - ✅ Explainable AI
+  - ✅ Reinforcement Learning
+  - ✅ Data Visualization
+  - ✅ Reducing Bias in AI
+  - ✅ Urban Mobility Data
 - **Non-Interests**:  
   - ❌ Ad-tech  
 
