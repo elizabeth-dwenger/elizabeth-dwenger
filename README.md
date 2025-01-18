@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Elizabeth! 👋  
 
-<!--
-**elizabeth-dwenger/elizabeth-dwenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me  
+- 🎓 **Education**:  
+  - Master's in Computer Science at the [University of Tartu](https://ut.ee/en) 🇪🇪  
+  - Master's in Urban Mobility at [Universitat Politècnica de Catalunya](https://www.upc.edu/en) 🇪🇸
+  - Bachelor's in Artificial Intelligence at [Vrije Universiteit Amsterdam](https://vu.nl/nl) 🇳🇱  
+  - Exchange Program in Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/) 🇭🇰
+  - Dual Enrollment at the [University of Minnesota](https://twin-cities.umn.edu/) in High School 🇺🇸
 
-Here are some ideas to get you started:
+- 💼 **Experience**:  
+  - Data Science Intern at [Uber](https://www.uber.com/) 🇳🇱 
+  - Teaching Assistant at [Vrije Universiteit Amsterdam](https://vu.nl/nl) 🇳🇱  
+- 🌎 **Citizenships**: United States of America 🇺🇸 | Estonia 🇪🇪  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 My Interests   
+- **Interests**:  
+  - ✅ Hypothesis Testing (A/B Testing & RCTs)
+  - ✅ Causal Inference  
+  - ✅ Urban Mobility Data  
+  - ✅ Deep Learning
+- **Non-Interests**:  
+  - ❌ Ad-tech  
+
+---
+
+## 🔗 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/elizabeth-dwenger/)  
+- [Personal Website](https://elizabeth-dwenger.github.io/)  
