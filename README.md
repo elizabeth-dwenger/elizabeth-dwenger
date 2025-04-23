@@ -7,6 +7,7 @@
   - Dual Enrollment at the [University of Minnesota](https://ccaps.umn.edu/post-secondary-enrollment-options-pseo) in High School 🇺🇸
 
 - 💼 **Experience**:  
+  - Data Science Intern at [Blue Cross Blue Shield](https://www.bcbs.com/) 🇺🇸
   - Data Science Intern at [Uber](https://www.uber.com/) 🇳🇱 
   - Teaching Assistant at [Vrije Universiteit Amsterdam](https://vu.nl/nl) 🇳🇱  
 - 🌎 **Citizenships**: United States of America 🇺🇸 | Estonia 🇪🇪  
