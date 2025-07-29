@@ -14,21 +14,6 @@
 
 ---
 
-## 📚 My Interests   
-- **Interests**:  
-  - ✅ Hypothesis Testing (A/B Testing & RCTs)
-  - ✅ Causal Inference
-  - ✅ Explainable AI
-  - ✅ Reinforcement Learning
-  - ✅ Data Visualization
-  - ✅ ML Fairness
-  - ✅ Urban Mobility Data
-  - ✅ Linear Algebra & Statistics (and sometimes Calculus :)
-- **Non-Interests**:  
-  - ❌ Ad-tech  
-
----
-
 ## 🔗 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/elizabeth-dwenger/)  
 - [Personal Website](https://elizabeth-dwenger.github.io/)  
